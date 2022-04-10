@@ -1,5 +1,5 @@
 # Asphalt9win
- Tables        | Are           | Cool  |
+ argumnent        | short           | description  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -7,7 +7,7 @@
 ```javascript
 Command line arguments  
 
-argumnent   | short | description  
+   | short | description  
 ------------|-------|--------------
 -task       |  -t   |   Single task name  
 -repeat       -r      Number of repetitions of a single task  
