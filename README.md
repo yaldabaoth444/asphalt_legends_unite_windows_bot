@@ -1,5 +1,5 @@
 # Asphalt9win
-| argumnent     | short         | description  |
+| **Argumnent**     | **Short**         | **Description**  |
 | ------------- |:-------------:|:-----|
 | -task         |-t | Single task name |
 |-repeat        |-r | Number of repetitions of a single task |
