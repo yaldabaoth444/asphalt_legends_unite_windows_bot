@@ -1,10 +1,10 @@
 # Asphalt9win
-```python
+```javascript
 Command line arguments  
 
 argumnent   | short | description  
 ===================================================================================  
--task           -t      Single task name  
+-task         -t      Single task name  
 -repeat       -r      Number of repetitions of a single task  
 -param        -p      String parameter for a single task  
 -cars         -c      Cars preset for a single task like Hunt  
