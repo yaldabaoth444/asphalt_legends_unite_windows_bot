@@ -1,6 +1,6 @@
 # Asphalt9win
  argumnent      | short         | description  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|:-----|
 | -task      | -t | Single task name |
 |-repeat        |-r |     Number of repetitions of a single task |
 |-param         |-p |     String parameter for a single task | 
