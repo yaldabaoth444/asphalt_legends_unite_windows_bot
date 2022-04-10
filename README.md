@@ -1,7 +1,7 @@
 # Asphalt9win
- argumnent        | short           | description  |
+ argumnent      | short         | description  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| -task      | -t | Single task name |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```javascript
