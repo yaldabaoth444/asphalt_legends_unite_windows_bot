@@ -25,7 +25,7 @@ BCompilerDebug.exe -t NavStat
 BCompilerDebug.exe -t ShowStats  
 BCompilerDebug.exe -f EveryDay.txt  
 
-*EveryDay.txt*
+*EveryDay.txt* ↓  
 ```javascript
 //daily tasks
 DailyEvents 6 Hunt cars:C4
