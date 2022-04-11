@@ -50,6 +50,10 @@ Kill 1
 Exit 1
 ```
 
+for Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png
+![image](https://user-images.githubusercontent.com/25618671/162742234-eea4a324-7765-46fa-90c2-f4e41799c068.png)
+
+
 *race-stats.txt* example  
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
 
