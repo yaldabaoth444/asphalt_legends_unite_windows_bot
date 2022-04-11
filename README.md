@@ -18,14 +18,14 @@
 |-windowHeight  |-h | Set the specified window height (default = 521) |
 
 **Examples:**  
-BCompilerDebug.exe -t MP1 -r 100  
-BCompilerDebug.exe -t MP2 -r 100  
-BCompilerDebug.exe -t Hunt -r 5 -cars B4 -map "The Caribbean: ISLET RACE"  
-BCompilerDebug.exe -t Hunt -r 1 -cars C4 -map hunt1bps -minTime 60 -maxTime 64
-BCompilerDebug.exe -t NavStat  
-BCompilerDebug.exe -t ShowStats  
+BCompilerDebug.exe -t **MP1** -r **100**  
+BCompilerDebug.exe -t **MP2** -r **100**  
+BCompilerDebug.exe -t **Hunt** -r **5** -cars **B4** -map **"The Caribbean: ISLET RACE"**  
+BCompilerDebug.exe -t **Hunt** -r **1** -cars **C4** -map **hunt1bps** -minTime **60** -maxTime **64**
+BCompilerDebug.exe -t **NavStat**  
+BCompilerDebug.exe -t **ShowStats**  
 
-BCompilerDebug.exe -f EveryDay.txt  
+BCompilerDebug.exe -f **EveryDay.txt**  
 *EveryDay.txt* ↓  
 ```javascript
 //daily tasks
@@ -35,7 +35,7 @@ DailyEvents 6 Hunt cars:C4
 //MP2 15
 MP1 25
 ```
-BCompilerDebug.exe -f EveryHour.txt  
+BCompilerDebug.exe -f **EveryHour.txt**  
 *EveryHour.txt* ↓  
 ```javascript
 //one hour tasks
