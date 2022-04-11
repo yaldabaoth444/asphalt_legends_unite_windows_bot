@@ -22,6 +22,7 @@ Also, the bot's operating time is limited to **Q2** 2022
 |-windowHeight  |-h | Set the specified window height (default = 521) |
 
 > **Examples:**  
+
 *BCompilerDebug.exe* -t **MP1** -r **100**  
 *BCompilerDebug.exe* -t **MP2** -r **100**  
 *BCompilerDebug.exe* -t **Hunt** -r **5** -cars **B4** -map **"The Caribbean: ISLET RACE"**  
