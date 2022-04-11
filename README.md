@@ -24,7 +24,7 @@ Also, the bot's operating time is limited to **Q2** 2022
 *BCompilerDebug.exe* -t **MP1** -r **100**  
 *BCompilerDebug.exe* -t **MP2** -r **100**  
 *BCompilerDebug.exe* -t **Hunt** -r **5** -cars **B4** -map **"The Caribbean: ISLET RACE"**  
-*BCompilerDebug.exe* -t **Hunt** -r **1** -cars **C4** -map **hunt1bps** -minTime **60** -maxTime **64**
+*BCompilerDebug.exe* -t **Hunt** -r **1** -cars **C4** -map **hunt1bps** -minTime **60** -maxTime **64**  
 *BCompilerDebug.exe* -t **NavStat**  
 *BCompilerDebug.exe* -t **ShowStats**  
 
