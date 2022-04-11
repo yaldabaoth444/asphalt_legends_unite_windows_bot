@@ -61,7 +61,7 @@ For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR
   * _LOC_ - The location of the image you are looking for (ex: **LOC_BR40** which means bottom right 40% of screen). B - bottom, T - top, L - left, R - right  
   * _AREA_ - Describes the search area in the image, where XY is the upper left corner, WH is the area size (ex: **AREA_X1300Y300W650H155**)  
 
-*race-stats.txt* example  
+> *race-stats.txt* example  
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
 
 ___
