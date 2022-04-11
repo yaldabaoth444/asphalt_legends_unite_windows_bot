@@ -3,6 +3,7 @@ At the moment in this build there is no navigational data, the bot rides in simp
 Also, the bot's operating time is limited to **Q2** 2022  
 
 > **Command line arguments:**  
+
 | **Argumnent**     | **Short**         | **Description**  |
 | ------------- |:-------------:|:-----|
 | -task         |-t | Single task name |
