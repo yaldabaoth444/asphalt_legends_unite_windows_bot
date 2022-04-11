@@ -16,3 +16,20 @@ Command line arguments
 |-windowY       |-y | Set the window to the specified X coordinate (default = 0) |
 |-windowWidth   |-w | Set the specified window width (default = 1056) |
 |-windowHeight  |-h | Set the specified window height (default = 521) |
+
+**Examples:**  
+BCompilerDebug.exe -t MP1 -r 100
+BCompilerDebug.exe -t MP2 -r 100
+BCompilerDebug.exe -t Hunt -r 5 -cars B4 -map "The Caribbean: ISLET RACE"
+BCompilerDebug.exe -t NavStat
+BCompilerDebug.exe -t ShowStats
+BCompilerDebug.exe -f EveryDay.txt
+EveryDay.txt
+```javascript
+//daily tasks
+DailyEvents 6 Hunt cars:C4
+//Hunt 3 cars:C4 map:Buenos_Aires:_CROSSTOWN event:HUNT_ELVA
+//MP1Downgrade 10 silver
+//MP2 15
+MP1 25
+```
