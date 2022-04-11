@@ -34,3 +34,14 @@ DailyEvents 6 Hunt cars:C4
 //MP2 15
 MP1 25
 ```
+BCompilerDebug.exe -f EveryHour.txt  
+*EveryDay.txt* ↓  
+```javascript
+//one hour tasks
+DailyEvents 6 Hunt cars:C4
+//MP1Downgrade 15 bronze
+//MP1 15
+//MP2 5
+Kill 1
+Exit 1
+```
