@@ -50,7 +50,7 @@ Kill 1
 Exit 1
 ```
 
-for Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png
+for Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png  
 ![image](https://user-images.githubusercontent.com/25618671/162742234-eea4a324-7765-46fa-90c2-f4e41799c068.png)
 
 
