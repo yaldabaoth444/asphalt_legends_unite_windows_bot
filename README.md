@@ -29,7 +29,7 @@ Also, the bot's operating time is limited to **Q2** 2022
 *BCompilerDebug.exe* -t **ShowStats**  
 
 *BCompilerDebug.exe* -f **EveryDay.txt**  
-*EveryDay.txt* ↓  
+> *EveryDay.txt* ↓  
 ```javascript
 //daily tasks
 DailyEvents 6 Hunt cars:C4
@@ -39,7 +39,7 @@ DailyEvents 6 Hunt cars:C4
 MP1 25
 ```
 *BCompilerDebug.exe* -f **EveryHour.txt**  (*run from the windows scheduler*)  
-*EveryHour.txt* ↓  
+> *EveryHour.txt* ↓  
 ```javascript
 //one hour tasks
 DailyEvents 6 Hunt cars:C4
@@ -55,7 +55,7 @@ For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR
 
 > File name parser rules:  
 
-..\Source\*\FileName {OPTIONS}.png  
+../Source/../FileName {OPTIONS}.png  
 - OPTIONS: (comma separated options)  
   * _TLR_ - Template searching tolerance (ex: **TLR_0.8**). The default tolerance is 0.98  
   * _LOC_ - The location of the image you are looking for (ex: **LOC_BR40** which means bottom right 40% of screen). B - bottom, T - top, L - left, R - right  
