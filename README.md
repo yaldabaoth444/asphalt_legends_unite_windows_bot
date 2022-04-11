@@ -1,4 +1,6 @@
 # Asphalt9win
+At the moment in this build there is no navigational data, the bot rides in simple mode. The **-map** option will not work.  
+
 **Command line arguments:**  
 | **Argumnent**     | **Short**         | **Description**  |
 | ------------- |:-------------:|:-----|
