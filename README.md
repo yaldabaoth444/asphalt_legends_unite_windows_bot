@@ -50,7 +50,8 @@ Kill 1
 Exit 1
 ```
 
-For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png For an explanation of Source file name formation, see the project <a href = "https://github.com/yaldabaoth444/Asphalt9w" target = "_blank">Asphalt9w</a>   
+For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png  
+For an explanation of Source file name formation, see the project <a href = "https://github.com/yaldabaoth444/Asphalt9w" target = "_blank">Asphalt9w</a>   
 ![image](https://user-images.githubusercontent.com/25618671/162742234-eea4a324-7765-46fa-90c2-f4e41799c068.png)
 
 
