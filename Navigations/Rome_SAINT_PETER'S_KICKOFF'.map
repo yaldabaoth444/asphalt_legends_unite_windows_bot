@@ -1,0 +1,20 @@
+{ 
+	"Name": "Rome: SAINT PETER'S KICKOFF'", 
+    "Map": "Rome: SAINT PETER'S KICKOFF'",
+    "Length" : 90,
+	"Instructions": [
+        { "type": "track-%", "sequence": 0,  "action": { "type": "nitro-manager-on" } },
+        { "type": "track-%", "sequence": 0,  "action": { "type": "stop-nitro" } },
+        { "type": "track-%", "sequence": 2,  "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 14, "action": { "type": "drift", "value": 1300 } },
+        { "type": "track-%", "sequence": 24, "action": { "type": "nav-choise", "pattern": "Oo", "value": 2 } },
+        { "type": "track-%", "sequence": 28, "action": { "type": "nav-choise", "pattern": "oOo", "value": 3 } },
+        { "type": "track-%", "sequence": 32, "action": { "type": "nav-choise", "pattern": "Oo", "value": 2 } },
+        { "type": "track-%", "sequence": 42, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 49, "action": { "type": "nav-choise", "pattern": "Oo", "value": 2 } },
+        { "type": "track-%", "sequence": 65, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 75, "action": { "type": "nav-choise", "pattern": "oOo", "value": 3 } },
+        { "type": "track-%", "sequence": 84, "action": { "type": "nav-choise", "pattern": "oOo", "value": 1 } },
+        { "type": "track-%", "sequence": 87, "action": { "type": "nav-choise", "pattern": "oOo", "value": 3 } }
+    ]
+}

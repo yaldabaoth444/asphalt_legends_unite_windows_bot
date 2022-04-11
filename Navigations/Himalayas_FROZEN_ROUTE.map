@@ -1,0 +1,29 @@
+{ 
+    "Name": "Himalayas: FROZEN ROUTE",
+    "Map": "Himalayas: FROZEN ROUTE",
+    "Length" : 5952,
+    "Instructions": [
+        { "type": "track-%", "sequence": 0,  "action": { "type": "nitro-manager-on" } },
+        { "type": "track-%", "sequence": 0,  "action": { "type": "stop-nitro" } },
+        { "type": "track-%", "sequence": 3,  "action": { "type": "nav-choise", "pattern": "oOo", "value": 3 } },
+        { "type": "track-%", "sequence": 18, "action": { "type": "360" } },
+        { "type": "track-%", "sequence": 23, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 26, "action": { "type": "nitro-manager-off" } },
+        { "type": "track-%", "sequence": 27, "action": { "type": "360-double-nitro" } },
+        { "type": "track-%", "sequence": 30, "action": { "type": "stop-nitro" } },
+        { "type": "track-%", "sequence": 31, "action": { "type": "drift-flash", "value": 1000 } },
+        { "type": "track-%", "sequence": 35, "action": { "type": "nitro-manager-on" } },
+        { "type": "track-%", "sequence": 44, "action": { "type": "nitro-manager-off" } },
+        { "type": "track-%", "sequence": 45, "action": { "type": "drift-flash", "value": 4500 } },
+        { "type": "track-%", "sequence": 51, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 54, "action": { "type": "drift-flash", "value": 1700 } },
+        { "type": "track-%", "sequence": 57, "action": { "type": "nitro-manager-on" } },
+        { "type": "track-%", "sequence": 58, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 66, "action": { "type": "nav-choise", "pattern": "Oo", "value": 2 } },
+        { "type": "track-%", "sequence": 69, "action": { "type": "360-double-nitro" } },
+        { "type": "track-%", "sequence": 71, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } },
+        { "type": "track-%", "sequence": 73, "action": { "type": "nav-choise", "pattern": "oOo", "value": 1 } },
+        { "type": "track-%", "sequence": 75, "action": { "type": "nav-choise", "pattern": "oOo", "value": 3 } },
+        { "type": "track-%", "sequence": 87, "action": { "type": "nav-choise", "pattern": "oO", "value": 1 } }
+    ]
+}
