@@ -23,8 +23,8 @@ BCompilerDebug.exe -t MP2 -r 100
 BCompilerDebug.exe -t Hunt -r 5 -cars B4 -map "The Caribbean: ISLET RACE"  
 BCompilerDebug.exe -t NavStat  
 BCompilerDebug.exe -t ShowStats  
-BCompilerDebug.exe -f EveryDay.txt  
 
+BCompilerDebug.exe -f EveryDay.txt  
 *EveryDay.txt* ↓  
 ```javascript
 //daily tasks
@@ -35,7 +35,7 @@ DailyEvents 6 Hunt cars:C4
 MP1 25
 ```
 BCompilerDebug.exe -f EveryHour.txt  
-*EveryDay.txt* ↓  
+*EveryHour.txt* ↓  
 ```javascript
 //one hour tasks
 DailyEvents 6 Hunt cars:C4
