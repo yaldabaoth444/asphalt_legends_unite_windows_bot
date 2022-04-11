@@ -54,4 +54,4 @@ Exit 1
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
 
 ___
-######<a href = "https://paypal.me/AzamatGizatullin" target = "_blank">PayPalMe</a>
+###### <a href = "https://paypal.me/AzamatGizatullin" target = "_blank">PayPalMe</a>
