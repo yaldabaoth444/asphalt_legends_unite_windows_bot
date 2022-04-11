@@ -18,13 +18,13 @@ Command line arguments
 |-windowHeight  |-h | Set the specified window height (default = 521) |
 
 **Examples:**  
-BCompilerDebug.exe -t MP1 -r 100
-BCompilerDebug.exe -t MP2 -r 100
-BCompilerDebug.exe -t Hunt -r 5 -cars B4 -map "The Caribbean: ISLET RACE"
-BCompilerDebug.exe -t NavStat
-BCompilerDebug.exe -t ShowStats
-BCompilerDebug.exe -f EveryDay.txt
-EveryDay.txt
+BCompilerDebug.exe -t MP1 -r 100  
+BCompilerDebug.exe -t MP2 -r 100  
+BCompilerDebug.exe -t Hunt -r 5 -cars B4 -map "The Caribbean: ISLET RACE"  
+BCompilerDebug.exe -t NavStat  
+BCompilerDebug.exe -t ShowStats  
+BCompilerDebug.exe -f EveryDay.txt  
+EveryDay.txt  
 ```javascript
 //daily tasks
 DailyEvents 6 Hunt cars:C4
