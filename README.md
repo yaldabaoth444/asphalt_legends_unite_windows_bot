@@ -51,9 +51,15 @@ Exit 1
 ```
 
 For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR_0.85}.png  
-For an explanation of Source file naming rules, see the project <a href = "https://github.com/yaldabaoth444/Asphalt9w" target = "_blank">Asphalt9w</a>   
 ![image](https://user-images.githubusercontent.com/25618671/162742234-eea4a324-7765-46fa-90c2-f4e41799c068.png)
 
+> File name parser rules:  
+
+..\Source\*\FileName {OPTIONS}.png  
+- OPTIONS: (comma separated options)  
+  * _TLR_ - Template searching tolerance (ex: **TLR_0.8**). The default tolerance is 0.98  
+  * _LOC_ - The location of the image you are looking for (ex: **LOC_BR40** which means bottom right 40% of screen). B - bottom, T - top, L - left, R - right  
+  * _AREA_ - Describes the search area in the image, where XY is the upper left corner, WH is the area size (ex: **AREA_X1300Y300W650H155**)  
 
 *race-stats.txt* example  
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
