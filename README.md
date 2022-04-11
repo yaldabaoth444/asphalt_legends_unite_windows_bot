@@ -2,8 +2,7 @@
 At the moment in this build there is no navigational data, the bot rides in simple mode so the **-map** option will not work. The bot can temporarily reach the legend with a good garage.  
 Also, the bot's operating time is limited to **Q2** 2022  
 
-> **Command line arguments:**  
-
+**Command line arguments:**  
 | **Argumnent**     | **Short**         | **Description**  |
 | ------------- |:-------------:|:-----|
 | -task         |-t | Single task name |
@@ -21,8 +20,7 @@ Also, the bot's operating time is limited to **Q2** 2022
 |-windowWidth   |-w | Set the specified window width (default = 1056) |
 |-windowHeight  |-h | Set the specified window height (default = 521) |
 
-> **Examples:**  
-
+**Examples:**  
 *BCompilerDebug.exe* -t **MP1** -r **100**  
 *BCompilerDebug.exe* -t **MP2** -r **100**  
 *BCompilerDebug.exe* -t **Hunt** -r **5** -cars **B4** -map **"The Caribbean: ISLET RACE"**  
@@ -64,6 +62,7 @@ For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR
   * _AREA_ - Describes the search area in the image, where XY is the upper left corner, WH is the area size (ex: **AREA_X1300Y300W650H155**)  
 
 > *race-stats.txt* example  
+
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
 
 ___
