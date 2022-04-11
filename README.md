@@ -29,7 +29,7 @@ Also, the bot's operating time is limited to **Q2** 2022
 *BCompilerDebug.exe* -t **ShowStats**  
 
 *BCompilerDebug.exe* -f **EveryDay.txt**  
-> *EveryDay.txt* ↓  
+> *EveryDay.txt*  
 ```javascript
 //daily tasks
 DailyEvents 6 Hunt cars:C4
@@ -39,7 +39,7 @@ DailyEvents 6 Hunt cars:C4
 MP1 25
 ```
 *BCompilerDebug.exe* -f **EveryHour.txt**  (*run from the windows scheduler*)  
-> *EveryHour.txt* ↓  
+> *EveryHour.txt*  
 ```javascript
 //one hour tasks
 DailyEvents 6 Hunt cars:C4
