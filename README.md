@@ -49,3 +49,6 @@ DailyEvents 6 Hunt cars:C4
 Kill 1
 Exit 1
 ```
+
+*race-stats.txt*
+![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
