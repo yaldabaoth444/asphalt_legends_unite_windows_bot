@@ -45,7 +45,7 @@ DailyEvents 6 Hunt cars:C4
 //MP2 15
 MP1 25
 ```
-*BCompilerDebug.exe* -f **EveryHour.txt**  (*run from the windows scheduler*)  
+*BCompilerDebug.exe* -f **EveryHour.txt**  (*startup from the windows scheduler*)  
 > *EveryHour.txt*  
 ```javascript
 //one hour tasks
