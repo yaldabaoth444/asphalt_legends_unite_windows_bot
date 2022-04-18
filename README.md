@@ -74,6 +74,6 @@ For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR
 ![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
 
 ___
-> Donation
+**Donation**
 If you think my scripts is helpful for you, you can donate me, your donation is the best encouragement to me.  
 ###### <a href = "https://paypal.me/AzamatGizatullin" target = "_blank">PayPalMe</a>
