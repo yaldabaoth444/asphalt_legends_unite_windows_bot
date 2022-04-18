@@ -5,7 +5,7 @@ Added minimal navigation for daily tasks (such as CreditHeist, OpenClassCup, etc
 At the moment in this build there is minimal navigation data, the bot rides in simple mode without nav. So the **-map** option applies only to existing nav data. The bot can temporarily reach the legend with a good garage.  
 Also, the bot's operating time is limited to **Q2** 2022  
 <a href = "https://youtu.be/JVPV0NSsgwc" target = "_blank">ARASH AF8 Looper Prix Round 1 01:15.63* 1⭐</a> (hybrid drive)  
-<a href = "https://youtu.be/wX_DtP7XgOI" target = "_blank">ARASH AF8 Looper Prix Round 2 00:36.345 1⭐</a> <a href = "https://github.com/yaldabaoth444/Asphalt9win/blob/main/Navigations/GP2a.map" target = "_blank">nav</a>  
+<a href = "https://youtu.be/wX_DtP7XgOI" target = "_blank">ARASH AF8 Looper Prix Round 2 00:36.345 1⭐</a> <a href = "https://github.com/yaldabaoth444/Asphalt9win/blob/main/Navigations/GP2a.map" target = "_blank" title = 'BCompilerDebug.exe -t Race -r 1 -map "granpri2a"'>nav</a>  
 <a href = "https://youtu.be/W1rB03THwyM" target = "_blank">Grand Prix race example</a> (vs manual drive 😓)  
 <a href = "https://youtu.be/S8zHejao2aM" target = "_blank">Exclusive Egoista (Naniwa Tour) BEAT 1:18 By 1* Corvette ZR1</a> (hybrid drive at 0:35|25% track)  
 See the nav in the «Navigations» folder  
