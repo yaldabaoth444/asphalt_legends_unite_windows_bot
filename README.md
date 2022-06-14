@@ -78,4 +78,4 @@ For Hunt you need to update the file ..\Source\DailyEvents\HUNT_CAR {LOC_B40,TLR
 ___
 **Donation**  
 If you think my bot is helpful for you, you can donate me, your donation is the best encouragement to me.  
-###### <a href = "https://paypal.me/AzamatGizatullin" target = "_blank">PayPalMe</a>
+###### <a href = "https://payeer.com/" target = "_blank">Payeer account: P1073238462</a>
