@@ -24,7 +24,7 @@ See the nav in the «Navigations» folder
 |-maxTime       |   | Driving no worse than the set time (Race & Hunt only) |
 |-file          |-f | Path to the file with multiple task |
 |-delay         |-d | Pre-start pause in seconds (default = 0) |
-|-windowName    |-n | A9 window name (default «Asphalt 9: Legends») |
+|-windowName    |-n | Target window name (default «Asphalt 9: Legends») |
 |-windowX       |-x | Set the window to the specified X coordinate (default = -7) |
 |-windowY       |-y | Set the window to the specified X coordinate (default = 0) |
 |-windowWidth   |-w | Set the specified window width (default = 1056) |
