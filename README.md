@@ -1,5 +1,5 @@
 # Asphalt9win  
-🚥🏎️ Join the <a href = "https://discord.gg/dDQQbYm7" target = "_blank">Discord server</a> for more info 🏁  
+🚥🏎️ Join the <a href = "https://discord.gg/W7cBhJtH" target = "_blank">Discord server</a> for more info 🏁  
 
 **Latest changes**  
 Added minimal navigation for daily tasks (such as CreditHeist, OpenClassCup, etc.)  
