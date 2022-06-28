@@ -2,6 +2,9 @@
 🚥🏎️ Join the <a href = "https://discord.gg/W7cBhJtH" target = "_blank">Discord server</a> for more info 🏁  
 
 **Latest changes**  
++ Added the ability to change the bot configuration using the bot.config file  
++ Password protection  
+
 Added minimal navigation for daily tasks (such as CreditHeist, OpenClassCup, etc.)  
 
 At the moment in this build there is minimal navigation data, the bot rides in simple mode without nav. So the **-map** option applies only to existing nav data. The bot can temporarily reach the legend with a good garage.  
