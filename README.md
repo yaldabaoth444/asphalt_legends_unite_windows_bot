@@ -1,5 +1,5 @@
 # Asphalt9win  
-🚥🏎️ Join the <a href = "https://discord.gg/EX8FPVrR" target = "_blank">Discord server</a> for more info 🏁  
+🚥🏎️ Join the <a href = "https://discord.gg/VYCpeBrz" target = "_blank">Discord server</a> for more info 🏁  
 
 **Latest changes**  
 + Added the ability to change the bot configuration using the bot.config file  
