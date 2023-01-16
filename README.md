@@ -1,4 +1,5 @@
 # Asphalt9win  
+PM me in Discord (The Bot#5736)  
 :bangbang: Q3 version is out of date, please go to Discrod for the new version  
 🚥🏎️ Join the <a href = "https://discord.gg/n56RNgztyj" target = "_blank">Discord server</a> for more info 🏁  
 
