@@ -1,9 +1,9 @@
 # Asphalt9win  
 PM me in Discord (The Bot#5736)  
-:bangbang: Q3 version is out of date, please go to Discrod for the new version  
 🚥🏎️ Join the <a href = "https://discord.gg/n56RNgztyj" target = "_blank">Discord server</a> for more info 🏁  
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
 
+:bangbang: Q3 version is out of date, please go to Discrod for the new version  
 **Latest changes**  
 + Added the ability to change the bot configuration using the bot.config file  
 + Password protection  
