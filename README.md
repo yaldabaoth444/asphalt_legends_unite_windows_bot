@@ -18,7 +18,7 @@ The bot can temporarily reach the legend with a good garage.
 
 > *race-stats.txt* example  
 
-![image](https://user-images.githubusercontent.com/25618671/162734720-89aad2ef-20e7-4133-824d-b1a506c45562.png)
+![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/71edddfe-2b66-4c1d-a957-972a7be2514d)
 
 ___
 **Donation**  
