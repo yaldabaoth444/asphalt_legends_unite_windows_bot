@@ -14,7 +14,7 @@ The bot can temporarily reach the legend with a good garage.
 <a href = "https://youtu.be/W1rB03THwyM" target = "_blank">Grand Prix race example</a> (vs manual drive 😓)  
 <a href = "https://youtu.be/S8zHejao2aM" target = "_blank">Exclusive Egoista (Naniwa Tour) BEAT 1:18 By 1* Corvette ZR1</a> (hybrid drive at 0:35|25% track)  
 
-[Documentation](Wiki)
+[`Documentation`](wiki)
 
 > *race-stats.txt* example  
 
