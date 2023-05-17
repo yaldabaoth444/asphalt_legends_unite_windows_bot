@@ -1,4 +1,6 @@
 # Asphalt9win  
+📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)  
+
 PM me in Discord (The Bot#5736)  
 🚥🏎️ Join the <a href = "https://discord.gg/n56RNgztyj" target = "_blank">Discord server</a> for more info 🏁  
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
@@ -12,11 +14,8 @@ PM me in Discord (The Bot#5736)
 <a href = "https://youtu.be/W1rB03THwyM" target = "_blank">Grand Prix race example</a> (vs manual drive 😓)  
 <a href = "https://youtu.be/S8zHejao2aM" target = "_blank">Exclusive Egoista (Naniwa Tour) BEAT 1:18 By 1* Corvette ZR1</a> (hybrid drive at 0:35|25% track)  
 
-📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)
-
 The bot can temporarily reach the legend with a good garage.  
 > *race-stats.txt* example  
-
 ![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/71edddfe-2b66-4c1d-a957-972a7be2514d)
 
 ___
