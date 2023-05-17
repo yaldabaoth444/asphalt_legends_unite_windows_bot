@@ -5,8 +5,6 @@ PM me in Discord (The Bot#5736)
 
 :bangbang: This version is out of date, please go to Discrod for the new version  
 
-The bot can temporarily reach the legend with a good garage.  
-
 `Examples of bot driving`  
 <a href = "https://youtu.be/JVPV0NSsgwc" target = "_blank">ARASH AF8 Looper Prix Round 1 01:15.63* 1⭐</a> (hybrid drive)  
 <a href = "https://youtu.be/wX_DtP7XgOI" target = "_blank">ARASH AF8 Looper Prix Round 2 00:36.345 1⭐</a> <a href = "https://github.com/yaldabaoth444/Asphalt9win/blob/main/Navigations/GP2a.map" target = "_blank" title = 'BCompilerDebug.exe -t Race -r 1 -map "granpri2a"'>nav</a>  
@@ -16,6 +14,7 @@ The bot can temporarily reach the legend with a good garage.
 
 📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)
 
+The bot can temporarily reach the legend with a good garage.  
 > *race-stats.txt* example  
 
 ![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/71edddfe-2b66-4c1d-a957-972a7be2514d)
