@@ -1,4 +1,4 @@
-# Asphalt9win  
+# «Asphalt 9: Legends» Bot for Windows  
 📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)  
 
 PM me in Discord (The Bot#5736)  
