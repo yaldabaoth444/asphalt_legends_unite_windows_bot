@@ -15,7 +15,6 @@ PM me in Discord (The Bot#5736)
 <a href = "https://youtu.be/S8zHejao2aM" target = "_blank">Exclusive Egoista (Naniwa Tour) BEAT 1:18 By 1* Corvette ZR1</a> (hybrid drive at 0:35|25% track)  
 
 The bot can temporarily reach the legend with a good garage.  
-> *race-stats.txt* example  
 ![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/71edddfe-2b66-4c1d-a957-972a7be2514d)
 
 ___
