@@ -2,6 +2,8 @@
 📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)  
 
 🚥🏎️ DM me 💬 @.d_a_r_k. to join our Discord server🏁  
+![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/9d9ae794-d8e3-42fd-9da9-156176e96377)
+
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
 
 :bangbang: This version is out of date, please go to Discrod for the last version  
