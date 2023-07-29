@@ -1,7 +1,7 @@
 # «Asphalt 9: Legends» Bot for Windows  
 📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)  
 
-🚥🏎️ DM me 💬(<a href = "https://discordapp.com/channels/@.d_a_r_k." target = "_blank">.d_a_r_k.</a>) to join our Discord server🏁  
+🚥🏎️ DM me 💬(<a href = "https://discordapp.com/channels/@me/1134978596658757772" target = "_blank">@.d_a_r_k.</a>) to join our Discord server🏁  
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
 
 :bangbang: This version is out of date, please go to Discrod for the last version  
