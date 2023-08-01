@@ -1,0 +1,1 @@
+.\bin\BCompiler2.exe -t PixelTest
