@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
 
-:bangbang: This version is out of date, please go to Discrod for the last version  
+:bangbang: This version may be out of date, go to Discrod for the latest version    
 
 `Examples of bot driving`  
 <a href = "https://youtu.be/JVPV0NSsgwc" target = "_blank">ARASH AF8 Looper Prix Round 1 01:15.63* 1⭐</a> (hybrid drive)  
