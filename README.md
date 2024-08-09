@@ -1,4 +1,4 @@
-# «Asphalt 9: Legends» Bot for Windows  
+# «Asphalt Legends Unite» Bot for Windows  
 📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2024h`](https://boosty.to/a9bot/posts/9ce0a142-c1bf-4a60-8800-5f1041189d9f?share=post_link)
 
 🚥🏎️ DM me 💬 @thebot5736 to join our Discord server🏁  
