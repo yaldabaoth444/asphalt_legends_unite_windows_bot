@@ -1,1 +1,0 @@
-.\bin\BCompiler2.exe -t MP1 -r 600

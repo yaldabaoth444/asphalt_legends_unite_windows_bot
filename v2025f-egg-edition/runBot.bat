@@ -1,0 +1,1 @@
+.\net6.0\9a5beb80-d788-465d-a6aa-a7da4e2f0ff0.exe %*
