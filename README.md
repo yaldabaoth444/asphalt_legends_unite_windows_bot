@@ -1,5 +1,5 @@
-# «Asphalt 9: Legends» Bot for Windows  
-📑[`Documentation`](https://github.com/yaldabaoth444/Asphalt9win/wiki)  
+# «Asphalt Legends Unite» Bot for Windows  
+📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2025f`](https://boosty.to/a9bot/posts/43382513-f57b-4331-bd96-6fedce841ffa)
 
 🚥🏎️ DM me 💬 @thebot5736 to join our Discord server🏁  
 ![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/aa986890-950d-467b-9f84-457769967c02)
@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/25618671/214398209-4292bf72-f976-417a-be31-ee891b258448.png)
 
-:bangbang: This version is out of date, please go to Discrod for the last version  
+:bangbang: This version may be out of date, go to Discrod for the latest version    
 
 `Examples of bot driving`  
 <a href = "https://youtu.be/JVPV0NSsgwc" target = "_blank">ARASH AF8 Looper Prix Round 1 01:15.63* 1⭐</a> (hybrid drive)  
@@ -22,4 +22,5 @@ The bot can temporarily reach the legend with a good garage.
 ___
 **Donation**  
 If you think my bot is helpful for you, you can donate me, your donation is the best encouragement to me.  
-###### <a href = "https://payeer.com/" target = "_blank">Payeer account: P1073238462</a>
+###### <a href = "https://payeer.com/" target = "_blank">Payeer account: P1073238462</a>  
+###### <a href = "http://boosty.to/a9bot/" target = "_blank">Boosty donation page</a>  
