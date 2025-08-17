@@ -1,5 +1,5 @@
 # «Asphalt Legends Unite» Bot for Windows  
-📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2025i rc1`](https://boosty.to/a9bot/posts/a61311e7-d6e6-4854-93ac-7f7fbe9176c1)
+📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2025j rc1`](https://boosty.to/a9bot/posts/a61311e7-d6e6-4854-93ac-7f7fbe9176c1)
 
 🚥🏎️ DM me 💬 @thebot5736 to join our Discord server🏁  
 ![image](https://github.com/yaldabaoth444/Asphalt9win/assets/25618671/aa986890-950d-467b-9f84-457769967c02)
